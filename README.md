@@ -1,3 +1,3 @@
 # GitLearning
 GitTest
-stable1.0
+stable2.0
